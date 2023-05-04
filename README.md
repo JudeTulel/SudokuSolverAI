@@ -1,4 +1,4 @@
-# What is Sudoku?
+# AI sudoku solver using Backtracking algorithm
  A sudoku puzzle consists of a 9x9 grid where each cell contains an integer 1-9.
  The 9x9 grid is divided into 9x9 subgrids
 The solution to the puzzle must satisfy the following conditions
